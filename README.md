@@ -1,6 +1,6 @@
-# Awesome Chats [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Communities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome developer chat (Discord, Slack, Telegram, etc.) communities.
+A curated list of awesome developer communities (Discord, Slack, Telegram, etc.).
 
 ## Table of Contents
 Use the "Table of Contents" menu in the top-left corner to explore the list.
