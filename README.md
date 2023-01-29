@@ -20,7 +20,6 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 
 ### Hugging Face
 - [Hugging Face Discord](https://huggingface.co/join/discord) - The AI community building the future.
-- [Hugging Face Twitter](https://twitter.com/huggingface) - The AI community building the future.
 
 ### PHP
 - [PHP Slack](https://phpchat.co/) - The official PHP Slack community.
