@@ -18,6 +18,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 ### Frontend Developers
 - [Frontend Developers Discord](https://discord.com/invite/kx7pk6J) - Friendly creative web developer Discord community.
 
+### Hugging Face
+- [Hugging Face Discord](https://huggingface.co/join/discord) - The AI community building the future.
+
 ### PHP
 - [PHP Slack](https://phpchat.co/) - The official PHP Slack community.
 
