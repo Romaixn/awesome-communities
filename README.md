@@ -17,6 +17,10 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [freeCodeCamp Discord](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) - The official freeCodeCamp Discord community.
 - [The Odin Project Discord](https://discord.gg/theodinproject) - The official The Odin Project Discord community.
 
+### Java
+- [Java Discord](https://www.javadiscord.net/) - One of the biggest Java Communities on Discord.
+- [Together Java](https://togetherjava.org/) - Java self-help Discord community.
+
 ### PHP
 - [PHP Slack](https://phpchat.co/) - The official PHP Slack community.
 - [Symfony Slack](https://symfony.com/slack-invite) - The official Symfony Slack community.
