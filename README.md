@@ -27,6 +27,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 
 ### Python
 - [Flet Discord](https://discord.gg/mMJHgYEqRK) - The official Flet Discord community.
+- [Poetry Discord](https://discord.gg/cy45ZZqbjY) - The official Poetry Discord community.
 - [Python Discord](https://discord.gg/python) - The official Python Discord community.
 - [PyWebIO Discord](https://discord.gg/EK4q9xqKh5) - The official PyWebIO Discord community.
 - [Streamlit Discord](https://discord.gg/k75KG68asr) - The official Streamlit Discord community.
