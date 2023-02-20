@@ -41,3 +41,4 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 ## French
 ### General
 - [Grafikart](http://www.grafikart.fr/tchat) - Le discord de Grafikart.
+- [Codinglab](https://discord.gg/7Guzz9e) - Discord de développeurs FR.
