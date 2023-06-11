@@ -14,6 +14,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 
 ### Help / Courses
 - [Codecademy Discord](https://discord.gg/codecademy) - The official Codecademy Discord community.
+- [Codu Discord](https://discord.gg/YdmGW8GY8Z) - Codu - The Coding community.
 - [freeCodeCamp Discord](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) - The official freeCodeCamp Discord community.
 - [The Odin Project Discord](https://discord.gg/theodinproject) - The official The Odin Project Discord community.
 
