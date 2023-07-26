@@ -8,6 +8,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 ## English
 ### AI
 - [Hugging Face Discord](https://huggingface.co/join/discord) - The AI community building the future.
+- [Leonardo AI](https://discord.gg/leonardo-ai) - Official Leonardo Image generation AI Discord community.
 
 ### Frontend
 - [Frontend Developers Discord](https://discord.com/invite/kx7pk6J) - Friendly creative web developer Discord community.
