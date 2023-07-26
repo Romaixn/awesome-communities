@@ -27,6 +27,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [Symfony Slack](https://symfony.com/slack-invite) - The official Symfony Slack community.
 
 ### Python
+- [Discord.py Discord](https://discord.gg/dpy) - The official Discord.py Discord community.
 - [Flet Discord](https://discord.gg/mMJHgYEqRK) - The official Flet Discord community.
 - [Poetry Discord](https://discord.gg/cy45ZZqbjY) - The official Poetry Discord community.
 - [Python Discord](https://discord.gg/python) - The official Python Discord community.
