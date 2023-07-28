@@ -35,6 +35,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [PyWebIO Discord](https://discord.gg/EK4q9xqKh5) - The official PyWebIO Discord community.
 - [Streamlit Discord](https://discord.gg/k75KG68asr) - The official Streamlit Discord community.
 
+### TypeScript
+- [TypeScript Discord](https://discord.gg/typescript) - The offical TypeScript Discord community.
+
 ### V Programming Language
 - [V Discord](https://discord.gg/vlang) - The official V language Discord community.
 
