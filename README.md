@@ -33,7 +33,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [Poetry Discord](https://discord.gg/cy45ZZqbjY) - The official Poetry Discord community.
 - [Python Discord](https://discord.gg/python) - The official Python Discord community.
 - [PyWebIO Discord](https://discord.gg/EK4q9xqKh5) - The official PyWebIO Discord community.
+- [Resume Matcher Discord](https://dsc.gg/resume-matcher) - The official Resume Matcher Discord community.
 - [Streamlit Discord](https://discord.gg/k75KG68asr) - The official Streamlit Discord community.
+
 
 ### TypeScript
 - [TypeScript Discord](https://discord.gg/typescript) - The offical TypeScript Discord community.
