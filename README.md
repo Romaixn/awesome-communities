@@ -50,6 +50,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [WordPress Slack](https://make.wordpress.org/chat/) - The official WordPress Slack community.
 
 ## French
-### General
+
+- [Ancyr Academy](https://discord.gg/pTycWaX288) de Anthony Cyrille
+- [Android Dev FR](http://android-dev-france.slack.com/)
 - [Codinglab](https://discord.gg/7Guzz9e) - Discord de développeurs FR.
 - [Grafikart](http://www.grafikart.fr/tchat) - Le discord de Grafikart.
+- [Wealcome](https://join.slack.com/t/wealcome/shared_invite/zt-1sox6t3sh-jR3lDMtcLvaV5mejUsJBqw)
