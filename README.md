@@ -13,6 +13,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 ### Frontend
 - [Frontend Developers Discord](https://discord.com/invite/kx7pk6J) - Friendly creative web developer Discord community.
 
+### GoLang
+- [Golang Slack Group](https://invite.slack.golangbridge.org/)
+
 ### Help / Courses
 - [Codecademy Discord](https://discord.gg/codecademy) - The official Codecademy Discord community.
 - [Codu Discord](https://discord.gg/YdmGW8GY8Z) - Codu - The Coding community.
