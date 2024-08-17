@@ -23,6 +23,9 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 - [Java Discord](https://www.javadiscord.net/) - One of the biggest Java Communities on Discord.
 - [Together Java](https://togetherjava.org/) - Java self-help Discord community.
 
+### Mac OS, Apple Operating System, Apple Software Groups
+- [Mac Admin Foundation(for Mac OS people)](https://join.slack.com/t/macadmins/shared_invite/zt-2o5811yhx-q5MNLrFG1VoHRusXLgZwsw)
+
 ### PHP
 - [PHP Slack](https://phpchat.co/) - The official PHP Slack community.
 - [Symfony Slack](https://symfony.com/slack-invite) - The official Symfony Slack community.
