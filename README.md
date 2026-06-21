@@ -8,6 +8,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 ## English
 ### AI
 - [Hugging Face Discord](https://huggingface.co/join/discord) - The AI community building the future.
+- [intheloop](https://intheloop.wexare.com) - Community for AI founders and developers to share links, discuss, and vote on tech content (en/es/pt).
 - [Leonardo AI](https://discord.gg/leonardo-ai) - Official Leonardo Image generation AI Discord community.
 
 ### Frontend
