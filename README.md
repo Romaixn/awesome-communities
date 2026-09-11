@@ -7,6 +7,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 
 ## English
 ### AI
+- [Antiburn — AI Coding Workflows](https://antiburn.ai/slack) - A Slack community for developers to exchange practical AI coding-agent workflows, skills, and session-analysis insights.
 - [Hugging Face Discord](https://huggingface.co/join/discord) - The AI community building the future.
 - [Leonardo AI](https://discord.gg/leonardo-ai) - Official Leonardo Image generation AI Discord community.
 
